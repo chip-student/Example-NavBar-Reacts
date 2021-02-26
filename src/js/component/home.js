@@ -9,7 +9,7 @@ import { Cards } from "./cards.js";
 import { FooterPage } from "./footer.js";
 
 //create your first component
-export function Home() {
+export function Home() { 
 	return (
 		<div>
 			<NavBar
